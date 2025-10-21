@@ -1,1 +1,1 @@
-[build] command = "npm run build"publish = "dist"[build.environment]Force Netlify to use Node 20 to prevent environment errorsNODE_VERSION = "20"
+[build]command = "npm run build"publish = "dist"[build.environment]Force Netlify to use Node 20 to prevent environment errorsNODE_VERSION = "20"
